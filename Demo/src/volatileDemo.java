@@ -27,7 +27,7 @@ public class volatileDemo {
     }
 }
 class number{
-  int number = 0;
+ volatile int number = 0;
     public void addNumber(){
           //  int number = 60;这是重新定义的值
         this.number=60;

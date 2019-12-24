@@ -6,18 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="zk-demo" />
         <module name="activemqDemo" />
+        <module name="zk-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="activemqDemo" target="1.8" />
+      <module name="demoExcercise" target="1.8" />
       <module name="zk-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="activemqDemo" options="-parameters" />
+      <module name="demoExcercise" options="-parameters" />
     </option>
   </component>
 </project>

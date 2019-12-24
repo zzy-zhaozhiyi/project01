@@ -74,7 +74,7 @@ public class StreanDemo {
                 new User(6L, "hanhong", 28)
         );
 
-    users.stream().filter(user -> user.getId() % 2 == 0)
+        users.stream().filter(user -> user.getId() % 2 == 0)
                 .filter(user -> user.getAge() > 24)
                 .map(user -> user.getName().toUpperCase())
                 .sorted((o1, o2) -> o2.compareTo(o1))
