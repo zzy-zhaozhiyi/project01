@@ -1,3 +1,5 @@
+import com.sun.org.apache.xpath.internal.operations.String;
+
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.FutureTask;
 
@@ -7,7 +9,7 @@ import java.util.concurrent.FutureTask;
  */
 public class callableTest {
     public static void main(String[] args) {
-        FutureTask<Integer> task = new FutureTask<Integer>(() ->{
+        FutureTask<Integer> task = new FutureTask<Integer>(() -> {
             System.out.println("妮好真的想妮了");
             return 200;
         });
