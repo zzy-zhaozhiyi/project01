@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b39ce3c-0550-4c12-83e2-f7a0efa1f246" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo/src/list.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo/src/list.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zk-demo/zk-demo.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../project01\exportToHTML" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="project01" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="c7edcc" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\workspace_idea0722\project01\Demo\src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developer_tools\RepMaven" />
+        <option name="mavenHome" value="D:/developer_tools/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\developer_tools\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W0HAcTJy9N3eY42WMcCRzapL4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="MANAGE_IGNORE_FILES_PROPERTY" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea0722\project01\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.aaa1111111">
+    <configuration name="BlockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.demo.BlockingQueueTest" />
+      <module name="activemqDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa1111111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="aaa1111111" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="blockingQueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blockingQueueTest" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="conditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.activemq.demo.conditionTest" />
+      <module name="activemqDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.activemq.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="volatileDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="volatileDemo" />
+      <module name="Demo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActivemqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="activemqDemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.activemq.ActivemqApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demoExcercise" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.aaa1111111" />
+        <item itemvalue="Application.conditionTest" />
+        <item itemvalue="Application.BlockingQueueTest" />
+        <item itemvalue="Application.blockingQueueTest" />
+        <item itemvalue="Application.volatileDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b39ce3c-0550-4c12-83e2-f7a0efa1f246" name="Default Changelist" comment="" />
+      <created>1573898726823</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573898726823</updated>
+      <workItem from="1573898730342" duration="2611000" />
+      <workItem from="1573901397718" duration="15000" />
+      <workItem from="1573902014963" duration="211000" />
+      <workItem from="1573902259113" duration="1321000" />
+      <workItem from="1573903682265" duration="1747000" />
+      <workItem from="1573905626037" duration="648000" />
+      <workItem from="1573907253678" duration="790000" />
+      <workItem from="1574000113929" duration="426000" />
+      <workItem from="1574000566322" duration="1326000" />
+      <workItem from="1574007023182" duration="66000" />
+      <workItem from="1574048158822" duration="7476000" />
+      <workItem from="1574124364219" duration="1261000" />
+      <workItem from="1574382882756" duration="597000" />
+      <workItem from="1574492170446" duration="2515000" />
+      <workItem from="1574560176752" duration="4554000" />
+      <workItem from="1574577498918" duration="2375000" />
+      <workItem from="1574642906822" duration="3816000" />
+      <workItem from="1574728096729" duration="13480000" />
+      <workItem from="1574763292435" duration="2859000" />
+      <workItem from="1574814715069" duration="2582000" />
+      <workItem from="1574823702534" duration="5865000" />
+      <workItem from="1574850816589" duration="4855000" />
+      <workItem from="1574904016587" duration="1756000" />
+      <workItem from="1574998785096" duration="793000" />
+      <workItem from="1575162737821" duration="14000" />
+      <workItem from="1575163033444" duration="157000" />
+      <workItem from="1575163356830" duration="249000" />
+      <workItem from="1575257446831" duration="147000" />
+      <workItem from="1575257761046" duration="240000" />
+      <workItem from="1575258581160" duration="43000" />
+      <workItem from="1575258660356" duration="630000" />
+      <workItem from="1575626421231" duration="1048000" />
+      <workItem from="1575767793175" duration="2109000" />
+      <workItem from="1575788004665" duration="1312000" />
+      <workItem from="1575851933751" duration="3196000" />
+      <workItem from="1575875832910" duration="1046000" />
+      <workItem from="1576486069309" duration="1211000" />
+      <workItem from="1576801813247" duration="413000" />
+      <workItem from="1576802256929" duration="373000" />
+      <workItem from="1576802659639" duration="2297000" />
+      <workItem from="1577001243146" duration="1295000" />
+      <workItem from="1577095303952" duration="1204000" />
+      <workItem from="1577147771642" duration="1046000" />
+      <workItem from="1577187092145" duration="8352000" />
+      <workItem from="1577270204384" duration="16000" />
+      <workItem from="1577323712409" duration="2982000" />
+      <workItem from="1577332370020" duration="2243000" />
+      <workItem from="1577407570819" duration="703000" />
+      <workItem from="1577452453605" duration="394000" />
+      <workItem from="1577604854740" duration="1275000" />
+      <workItem from="1577719492229" duration="165000" />
+      <workItem from="1577857404826" duration="2541000" />
+      <workItem from="1578055703091" duration="750000" />
+      <workItem from="1578098217249" duration="8000" />
+      <workItem from="1578279454691" duration="34000" />
+      <workItem from="1578279791508" duration="5000" />
+      <workItem from="1578280279889" duration="19000" />
+    </task>
+    <task id="LOCAL-00001" summary="线程通信之生产消费者阻塞队列版">
+      <created>1577198984334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577198984334</updated>
+    </task>
+    <task id="LOCAL-00002" summary="线程通信之生产消费者阻塞队列版">
+      <created>1577719582381</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577719582381</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="线程通信之生产消费者阻塞队列版" />
+    <option name="LAST_COMMIT_MESSAGE" value="线程通信之生产消费者阻塞队列版" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Demo2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
