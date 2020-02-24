@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/zk-demo/pom.xml" />
         <option value="$PROJECT_DIR$/activemqDemo/pom.xml" />
+        <option value="$PROJECT_DIR$/Demo2/pom.xml" />
       </list>
     </option>
   </component>
